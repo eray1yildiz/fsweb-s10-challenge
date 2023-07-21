@@ -3,10 +3,13 @@ import { Switch, Route, NavLink } from "react-router-dom";
 import PostForm from "./components/PostForm";
 import PostList from "./components/PostList";
 import Img from "./assets/gratitude.jpg";
+import { ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 export default function App() {
   return (
     <div>
+      <ToastContainer />
       <div className="bg-white shadow mb-8">
         <nav className="flex gap-2 justify-center max-w-xl mx-auto text-zinc-500">
           <NavLink
