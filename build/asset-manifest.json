@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b2891e8.css",
+    "main.js": "/static/js/main.7e2c9768.js",
+    "static/media/gratitude.jpg": "/static/media/gratitude.ee8385dd2c872600fb14.jpg",
+    "static/media/grForm.png": "/static/media/grForm.faf3f3452d8a9fb088e5.png",
+    "index.html": "/index.html",
+    "main.5b2891e8.css.map": "/static/css/main.5b2891e8.css.map",
+    "main.7e2c9768.js.map": "/static/js/main.7e2c9768.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b2891e8.css",
+    "static/js/main.7e2c9768.js"
+  ]
+}
